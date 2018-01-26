@@ -10,6 +10,7 @@ f = open("test.txt",'a')  # öppnar filen test.txt i append läge för filen
 
 f.close() # stänger filen du nyss öppnade 
 
+
 Öpnna och skriver till en fil 
 
 f=open("test.txt",'w')
